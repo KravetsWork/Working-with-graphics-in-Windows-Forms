@@ -1,6 +1,7 @@
-# Course work in the second year using C#.
+# Course work in the second year using C#
 ***
-### Objective: Learn how to work with graphics.
+### Objective: 
+* Learn how to work with graphics.
 ***
 ### Tasks for term paper:
 Create a multi-window application for Windows, the menu of which should contain the following items:
