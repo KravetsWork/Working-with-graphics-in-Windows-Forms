@@ -1,4 +1,4 @@
-# Course work for the second course in C #.
+# Course work in the second year using C#.
 ***
 ### Objective: Learn how to work with graphics.
 ***
